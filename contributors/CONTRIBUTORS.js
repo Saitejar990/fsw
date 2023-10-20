@@ -20,6 +20,14 @@ contributors = [
     BIO: "Frontend Web Developer",
     GITHUB: "https://github.com/akashyerra",
   },
+
+  {
+    NAME: "Sai Teja Reddy",
+    YEAR: "2nd",
+    BRANCH: "IT",
+    COLLEGE: "GRIET",
+    GITHUB:"https://github.com/Saitejar990",
+  },
   
   // Add more contributors as needed
   
